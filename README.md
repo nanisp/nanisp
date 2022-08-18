@@ -2,6 +2,6 @@ Our first step is to detect the objects in the image captured by the blind perso
 
 Things to be downloaded:
 
-YOLO V3 weights.
-Coco.names
-Tesseract (latest version)
+1.YOLO V3 weights.
+2.Coco.names
+3.Tesseract (latest version)
